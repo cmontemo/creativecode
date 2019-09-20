@@ -32,7 +32,7 @@ for i in range(1,11):
 # generates a poem that has 10 lines of randomly-selected chunks of words.
 
 #seeed = random.randint(0,len(wordlist)-1)
-#wordlist[seed:seed+5]
+#wordlist[seeed:seeed+5]
 #line10=wordlist[seeed:seeed+10]
 #print(" ".join(line10) )
 
