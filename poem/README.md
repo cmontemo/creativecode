@@ -1,4 +1,4 @@
-# Death In The Pot
+# Poetry: "Death In The Pot"
 
 When we began this project, my first thought was to compile a bunch of ingredients lists (mainly food packaging, but possibly some from other products) and create poetry with them by specifying a structure and then using word replacement to make them “readable.”  I have been (playfully) accused of having a food theme, and I may (seriously) continue this.
 
