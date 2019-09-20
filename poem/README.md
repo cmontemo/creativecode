@@ -6,29 +6,29 @@ In exploring the Project Gutenberg repository, I immediately scrolled through th
 
 The final version of my code does this…
 
-I’m envisioning a poem like this one typed here, where
-it goes on at length for a little bit,
-going on and on and on but then
-slowly but surely stops going on and
-on and on, starting to disappear
-from the page, faintly beginning
-to diminish until perhaps,
-just maybe, it
-is no
-more.
+I’m envisioning a poem like this one typed here, where <br>
+it goes on at length for a little bit, <br>
+going on and on and on but then <br>
+slowly but surely stops going on and <br>
+on and on, starting to disappear <br>
+from the page, faintly beginning <br>
+to diminish until perhaps,<br>
+just maybe, it <br>
+is no <br>
+more. <br>
 
 …and earlier versions of my code did this…
 
-Right now, it’s doing this thing where it gradually disappears.
-Right now, it’s doing this thing where it gradually 
-Right now, it’s doing this thing where it 
-Right now, it’s doing this thing where 
-Right now, it’s doing this thing 
-Right now, it’s doing this 
-Right now, it’s doing 
-Right now, it’s
-Right now, 
-Right
+Right now, it’s doing this thing where it gradually disappears. <br>
+Right now, it’s doing this thing where it gradually <br>
+Right now, it’s doing this thing where it <br>
+Right now, it’s doing this thing where <br>
+Right now, it’s doing this thing <br>
+Right now, it’s doing this <br>
+Right now, it’s doing <br>
+Right now, it’s <br>
+Right now, <br>
+Right <br>
 
 …both of which are potentially interesting poetically.  The first sounds like someone slowly trailing off into oblivion, while the second sounds like someone stuttering confusedly, losing their train of thought over and over until there is no more track to run on.  I chose 10 lines of poetry for each because it sounds like a countdown - 10…9…8…7…
 
