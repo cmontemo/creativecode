@@ -26,3 +26,5 @@ I consulted Zach Whalen’s coding examples and reviewed several different p5.js
 The ouroboros image that I chose came from Wikimedia Commons and is labelled for reuse - you can find a link to the image commented in my code.  I added color to the snakes using GIMP, choosing brown-gold hues to imitate jewelry designs that include ouroboros symbolism.  A purple background went nicely with the golden browns; both color choices were seconded by Sandra.  I decided to color the snakes with an ombre feel to create additional ambience.
 
 In the future, I’d like to try to build a flower clock and a video-game-achievement-themed clock.  For now, the eternal snake will tick into eternity.
+
+You can see a running version of my clock [here](https://editor.p5js.org/cmontemo/present/50XobpnGH).
