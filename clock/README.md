@@ -1,6 +1,6 @@
 # Ouroboros: The Eternal Cycle
 
-The [ouroboros] (https://www.britannica.com/topic/Ouroboros), a serpent eating its own tail, is a symbol present in many different cultures and religious beliefs.  It symbolizes the interconnectedness of everything and the eternality of time, space, and existence.  
+The [ouroboros](https://www.britannica.com/topic/Ouroboros), a serpent eating its own tail, is a symbol present in many different cultures and religious beliefs.  It symbolizes the interconnectedness of everything and the eternality of time, space, and existence.  
 
 When we were first introduced to this project and discussed the concept of time, my mind went to two places: The Twilight Zone (“Time Enough at Last” - it gets me every time) and The X Files (“Never Again” - a man with a pin-up girl tattoo that speaks to him convinces Scully to get a tattoo of the Ouroboros).
 
