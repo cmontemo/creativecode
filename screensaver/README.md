@@ -13,3 +13,5 @@ The haphazard arrangement is purposeful - I am trying to harken to “shitpost�
 …I think midterms week is making me feel particularly pessimistic, and my design does seem to express this the more that I reflect on its potential interpretations.  I’m feeling the stress for sure.  I hope that this screensaver doesn’t stress people out.
 
 I definitely want to revisit the ideas that I was unable to implement in time for this project, I need to keep watching videos and looking through tutorials so that I can learn and understand the skills and functions I need to create something more advanced.
+
+https://editor.p5js.org/cmontemo/sketches/b5p8p21VR 
